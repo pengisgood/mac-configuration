@@ -13,10 +13,8 @@ alias ll='ls -l -G'
 ##alias for maven##
 alias mvn-scala='mvn archetype:generate -DarchetypeGroupId=net.alchim31.maven -DarchetypeArtifactId=scala-archetype-simple -DarchetypeVersion=1.5 -Dversion=1.0-SNAPSHOT'
 
-##operations##
+##custom operations##
 echo "##Welcome back, `whoami`##"
 cd ~/Documents/
 
 
-
-[ -s $HOME/.nvm/nvm.sh ] && . $HOME/.nvm/nvm.sh # This loads NVM
