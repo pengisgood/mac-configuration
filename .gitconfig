@@ -8,3 +8,6 @@ hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 [user]
 name = Max Peng
 email = pengisgood@gmail.com
+
+[credential]
+helper = osxkeychain
