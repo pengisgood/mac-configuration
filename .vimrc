@@ -8,7 +8,7 @@ syntax on
 " Display line numbers on the left
 set number
 
-" Display tabs as two characters wide.
+" Display tabs as four spaces.
 set tabstop=4
 set shiftwidth=4
 set smarttab
