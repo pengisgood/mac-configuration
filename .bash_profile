@@ -3,7 +3,7 @@ CMD_NOCOLOR="\[\033[0m\]"
 CMD_RED="\[\033[1;31m\]"
 CMD_GREEN="\[\033[1;32m\]"
 CMD_BLUE="\[\033[1;34m\]"
-export PS1="\n$CMD_NOCOLOR\u$CMD_NOCOLOR[ $CMD_GREEN\w$CMD_NOCOLOR ]\n[$CMD_RED\t$CMD_NOCOLOR] \$ "
+export PS1="\n$CMD_NOCOLOR\u$CMD_NOCOLOR[ $CMD_GREEN\w$CMD_NOCOLOR ]\n[$CMD_RED\t$CMD_NOCOLOR] ☞  "
 
 ##alias##
 alias ls='ls -G'
